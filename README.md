@@ -1,1 +1,1 @@
-# Trade-Sentiments-Analysis
+# Trade and Sentiments Analysis
